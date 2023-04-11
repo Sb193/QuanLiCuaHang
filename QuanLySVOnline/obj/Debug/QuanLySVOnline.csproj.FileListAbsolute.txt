@@ -1,0 +1,10 @@
+D:\Work\Project\QuanLiSVOnline\QuanLiCuaHang\QuanLySVOnline\bin\Debug\QuanLySVOnline.exe.config
+D:\Work\Project\QuanLiSVOnline\QuanLiCuaHang\QuanLySVOnline\bin\Debug\QuanLySVOnline.exe
+D:\Work\Project\QuanLiSVOnline\QuanLiCuaHang\QuanLySVOnline\bin\Debug\QuanLySVOnline.pdb
+D:\Work\Project\QuanLiSVOnline\QuanLiCuaHang\QuanLySVOnline\obj\Debug\QuanLySVOnline.csproj.AssemblyReference.cache
+D:\Work\Project\QuanLiSVOnline\QuanLiCuaHang\QuanLySVOnline\obj\Debug\QuanLySVOnline.csproj.SuggestedBindingRedirects.cache
+D:\Work\Project\QuanLiSVOnline\QuanLiCuaHang\QuanLySVOnline\obj\Debug\QuanLySVOnline.Properties.Resources.resources
+D:\Work\Project\QuanLiSVOnline\QuanLiCuaHang\QuanLySVOnline\obj\Debug\QuanLySVOnline.csproj.GenerateResource.cache
+D:\Work\Project\QuanLiSVOnline\QuanLiCuaHang\QuanLySVOnline\obj\Debug\QuanLySVOnline.csproj.CoreCompileInputs.cache
+D:\Work\Project\QuanLiSVOnline\QuanLiCuaHang\QuanLySVOnline\obj\Debug\QuanLySVOnline.exe
+D:\Work\Project\QuanLiSVOnline\QuanLiCuaHang\QuanLySVOnline\obj\Debug\QuanLySVOnline.pdb
